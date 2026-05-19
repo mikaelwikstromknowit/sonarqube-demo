@@ -1,0 +1,4 @@
+SONAR_HOST_IP=localhost
+SONAR_HOST_URL="http://$SONAR_HOST_IP:9000"
+SONAR_TOKEN=
+SONAR_PROJ_KEY=juice-shop-project-key

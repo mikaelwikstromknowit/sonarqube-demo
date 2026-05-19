@@ -1,4 +1,14 @@
 
+
+## docker
+```
+docker run -d --name sonarqube -p 9000:9000 sonarqube:lts-community
+
+https://localhost:9000/
+# login admin/admin
+# set new password
+```
+
 ## docker compose
 
 ```
